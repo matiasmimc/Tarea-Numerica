@@ -1,2 +1,2 @@
-# Tarea-Num-rica
-Tarea numérica realizada para el ramo de Ecuaciones Diferenciales Ordinarias del Departamento de Ingeniería Matemática de la Universidad de Chile.
+# Tarea-Numérica
+Tarea numérica realizada para el curso de Ecuaciones Diferenciales Ordinarias del Departamento de Ingeniería Matemática de la Universidad de Chile en que se resuelve numéricamente una EDO de un modelo social de interacción humanidad-naturaleza-desigualdad con distintos métodos (Euler Progresivo, Heun y Runge Kutta 4) y con un solver de SciPy, y se describe que ocurre para distintos casos del modelo.
